@@ -1,5 +1,4 @@
-# Krunker-Cheat-Loader
-Hack for Krunker Junker Sploit
+
 // ==UserScript==
 // @name         Krunker Cheat Loader
 // @namespace    https://forum.sys32.dev/
